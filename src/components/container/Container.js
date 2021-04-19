@@ -73,19 +73,32 @@ export default class Container extends Component {
                 </div>
                 <div className="container-news">
                     <h2>TIN TỨC</h2>
+
                     <div className="flex-container-news">
-                        <div className="news-item">
-                            <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/118464744_164864545205462_3013913295243705682_n.png?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=58KNnK3PlaoAX9TOaHf&_nc_ht=scontent.fhan2-4.fna&oh=431c7cad27095ef77b6cde1d60836fde&oe=60984C57" />
-                        </div>
-                        <div className="news-item">
-                            <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/104415367_140258964332687_5028199830337772197_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=1gtk38zzEHwAX9FiCIV&_nc_ht=scontent.fhan2-4.fna&oh=8f0bbb2740eeb1bef40d019373653b12&oe=60977251" />
-                        </div>
-                        <div className="news-item">
-                            <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/97960680_125548415803742_9091850616308760576_n.png?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=8Bv6hm5QBUsAX80bzOb&_nc_ht=scontent.fhan2-3.fna&oh=03f8ef7ee98ae88172d1b2a989e54dbb&oe=6099D930" />
-                        </div>
-                        <div className="news-item">
-                            <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/110227179_155983402760243_4926401940915098651_n.png?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=iK4a8mM4ajEAX9wGXm4&_nc_ht=scontent.fhan2-3.fna&oh=efda2aff1f84be8ed5703cc7f6d3b8a5&oe=609A3DAB" />
-                        </div>
+                        <Link>
+                            <div className="news-item">
+                                <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/118464744_164864545205462_3013913295243705682_n.png?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=58KNnK3PlaoAX9TOaHf&_nc_ht=scontent.fhan2-4.fna&oh=431c7cad27095ef77b6cde1d60836fde&oe=60984C57" />
+                            </div>
+                        </Link>
+                        <Link>
+                            <div className="news-item">
+                                <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/104415367_140258964332687_5028199830337772197_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=1gtk38zzEHwAX9FiCIV&_nc_ht=scontent.fhan2-4.fna&oh=8f0bbb2740eeb1bef40d019373653b12&oe=60977251" />
+                            </div>
+                        </Link>
+                        <Link>
+                            <div className="news-item">
+                                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/97960680_125548415803742_9091850616308760576_n.png?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=8Bv6hm5QBUsAX80bzOb&_nc_ht=scontent.fhan2-3.fna&oh=03f8ef7ee98ae88172d1b2a989e54dbb&oe=6099D930" />
+                            </div>
+                        </Link>
+                        <Link>
+                            <div className="news-item">
+                                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/110227179_155983402760243_4926401940915098651_n.png?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=iK4a8mM4ajEAX9wGXm4&_nc_ht=scontent.fhan2-3.fna&oh=efda2aff1f84be8ed5703cc7f6d3b8a5&oe=609A3DAB" />
+                            </div>
+                        </Link>
+
+
+
+
                     </div>
 
                 </div>

@@ -22,8 +22,8 @@ const Banner = () => {
         <div
             className="slide_wrapper"
             style={{
-                height: `${565}px`,
-                width: `${window.innerWidth}px`,
+                height: `${100}%`,
+                width: `${100}%`,
                 overflow: 'hidden'
             }}
         >

@@ -33,7 +33,7 @@ export default class Menu extends Component {
     }
 
     render() {
-        var { menu } = this.state;
+        const { menu } = this.state;
 
         const listItems = menu.map((item) => (
             <div className="list-item" key={item.id}>
