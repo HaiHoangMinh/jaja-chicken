@@ -111,7 +111,7 @@ export default class Register extends Component {
             [event.target.name]: event.target.value
         });
     };
-
+    
     register = event => {
         alert("User:" + this.state.fullname + " " + this.state.email + " " + this.state.password);
         event.preventDefault();

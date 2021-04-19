@@ -1,0 +1,113 @@
+ { "menu" : [
+    {
+        "id": 1,
+        "pd_name": "Ức gà giòn",
+        "desc": "Ức gà chiên cùng với nước sốt thần thánh cùng rau sống ăn kèm",
+        "prince": 25000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/116263663_155983452760238_9083996583483629706_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=SAkGm0MR12AAX8vrATf&_nc_ht=scontent.fhan2-4.fna&oh=4f67e148c2095cc93c543a303a794163&oe=609A0D4E"
+    },
+    {
+        "id": 2,
+        "pd_name": "Đùi gà cay",
+        "desc": "Đùi gà cay cùng với nước sốt thần thánh cùng rau sống ăn kèm",
+        "prince": 30000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/116353136_155983436093573_8383423855981603836_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=bNABeEzYr6oAX9tZGXe&_nc_ht=scontent.fhan2-3.fna&oh=aead82c159748ca674be9023d1087629&oe=60997EFA"
+    },
+    {
+        "id": 3,
+        "pd_name": "Gà không xương",
+        "desc": "Gà không xương cùng với nước sốt thần thánh cùng rau sống ăn kèm",
+        "prince": 30000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-6.fna.fbcdn.net/v/t1.6435-9/104408539_143081250717125_229710692309116396_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=uX_IE1fS0q0AX-mwIqz&_nc_oc=AQkcs_JL84NqjCzkD3NcmrW9YvWVzSE52JiEZRe-WIeP8Dh5KH_0bEcENtPM29ZrCh4&_nc_ht=scontent.fhan2-6.fna&oh=1adc631a278399c7583cf2bd124f1936&oe=6098331F"
+    },
+    {
+        "id": 4,
+        "pd_name": "Đùi gà giòn",
+        "desc": "Đùi gà chiên cùng với nước sốt thần thánh cùng rau sống ăn kèm",
+        "prince": 25000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/98353813_127488112276439_581192019557220352_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=tYQao2fHx2EAX_mTxJ7&_nc_ht=scontent.fhan2-3.fna&oh=82a70ca7fb700a09342e80beeb250eb2&oe=6099A326"
+    },
+    {
+        "id": 5,
+        "pd_name": "Tỏi gà giòn",
+        "desc": "Tỏi gà chiên cùng với nước sốt thần thánh cùng rau sống ăn kèm",
+        "prince": 25000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.6435-9/96530806_124121252613125_6130496001728839680_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=Y_s7Je6m5NEAX_vt9Kk&_nc_ht=scontent.fhan2-1.fna&oh=dfbd88f133df26d4ab98994662d384d3&oe=60969BF7"
+    },
+    {
+        "id": 6,
+        "pd_name": "Full combo",
+        "desc": "Toàn bộ các món ăn của quán cùng rau sống ăn kèm và nước ngọt tùy chọn",
+        "prince": 100000,
+        "curent": "Đồng",
+        "thumb": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/93264653_102868764738374_7461304739519528960_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=G2L4eei07roAX-kiFaR&_nc_ht=scontent.fhan2-3.fna&oh=3e50b28dae91a964145d0b8ccac5ab77&oe=6097CAAF"
+        
+    }
+],
+"users" : [
+    {
+        "id": 1,
+        "fullname": "Hoang Minh Hai",
+        "username": "haibg",
+        "email": "haibg1998b@gmail.com",
+        "password": "123456",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "fullname": "Hoang Van Hieu",
+        "username": "hieu",
+        "email": "trongdat99@gmail.com",
+        "password": "123456",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "fullname": "Hoang Trong Dat",
+        "username": "dat",
+        "email": "hieucbg1998b@gmail.com",
+        "password": "123456",
+        "role": "user"
+    }
+
+],
+"feedback":[
+    {
+        "name": "Hai",
+        "email":"haibg1998b@gmail.com",
+        "title":"Ga rat ngon !",
+        "image": [
+        "1.0.png",
+        "1.1.png",
+        "1.2.png",
+        "1.3.png",
+        "1.4.png",
+        "1.5.png",
+        "1.6.png",
+        "1.7.png",
+        "1.8.png"
+        ]
+    },
+    {
+        "name": "Hieu",
+        "email":"hieucbg1998b@gmail.com",
+        "title":"Ga gion !",
+        "image": [
+        "1.0.png",
+        "1.1.png",
+        "1.2.png",
+        "1.3.png",
+        "1.4.png",
+        "1.5.png",
+        "1.6.png",
+        "1.7.png",
+        "1.8.png"
+        ]
+    }
+]
+ }
